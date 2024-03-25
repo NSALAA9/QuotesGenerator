@@ -33,4 +33,4 @@ The HTML file (`index.html`) contains the following structure:
    - Styled with background color, text color, border radius, cursor, padding, and font size.
 
 
-
+![alt text](house.png)
