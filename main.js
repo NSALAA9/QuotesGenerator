@@ -16,7 +16,7 @@ writer:`– Walter White`
     writer:`- Tony Soprano`
 },
 {
-    quote:`“I did it for me.I liked it.i was good at it and, i was really.. I was alive.”`,
+    quote:`“I did it for me.I liked it.I was good at it and, I was really.. I was alive.”`,
     writer:`– Walter White`
 },
 {
